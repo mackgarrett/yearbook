@@ -1,0 +1,103 @@
+h1 /* title */
+{
+	font-size: 50px;
+	color: Black;
+	text-align: center;
+}
+
+h2 /* sub-heading */
+{
+	font-size: 23px;
+	color: black;
+	text-align: center;
+	padding: 10px;
+}
+
+h3 /* W Titles */
+{
+	font-size: 60px;
+	color: white;
+	text-align: center;
+	
+}
+
+h4 {
+	font-size: 25px;
+	color: black;
+	text-align: center;
+}
+p
+{
+	font-size: 15px;
+	color: black;
+	text-align: left;
+	margin-left: 3cm;	
+}
+
+body {
+  padding-top: 50px;
+  
+}
+
+.dropbtn {
+    background-color: black;
+    color: black;
+    padding: 16px;
+    font-size: 16px;
+    border: none;
+    cursor: pointer;
+}
+
+.dropdown {
+    position: relative;
+    display: inline-block;
+}
+
+.dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: black;
+    min-width: 170px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+}
+
+.dropdown-content a {
+    color: gray;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+}
+
+.dropdown-content a:hover {background-color: #f1f1f1}
+
+.dropdown:hover .dropdown-content {
+    display: block;
+}
+
+.dropdown:hover .dropbtn {
+    background-color: #3e8e41;
+}
+
+.importantbox
+{
+	width: 50%;
+	padding: 50px;
+	float: center;
+	color: black;
+	border-style: solid;
+	border-width: 5px;
+	background-color: black;
+	opacity: 0.8;
+}
+
+.importantbox2
+{
+	width: 50%;
+	padding: 50px;
+	float: right;
+	color: black;
+	background-color: white;
+	opacity: 0.8;
+
+
+}
