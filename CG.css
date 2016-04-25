@@ -9,6 +9,7 @@ h1 /* title */
 
 h2 /* sub-heading */
 {
+	font-family: "droid-serif";
 	font-size: 23px;
 	color: black;
 	text-align: center;
