@@ -1,7 +1,10 @@
 h1 /* title */
 {
+	position: absolute;
+	top: 330px;
+	width: 100%;
 	font-size: 50px;
-	color: Black;
+	color: White;
 	text-align: center;
 }
 
@@ -133,6 +136,17 @@ body {
 	background-color: black;
 	opacity: 0.8;
 }
+.importantbox5
+{
+	width: 100%;
+	padding: 50px;
+	float: right;
+	color: white;
+	background-color: black;
+	opacity: 0.8;
+}
+
+
 .section {
 	clear: both;
 	padding: 0px;
@@ -172,3 +186,4 @@ body {
 @media only screen and (max-width: 480px) {
 	.span_2_of_2, .span_1_of_2 { width: 100%; }
 }
+
