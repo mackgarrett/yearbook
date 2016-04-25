@@ -54,6 +54,95 @@
 	
 	<body>
 		<h1>Yearbook Order Form</h1>
+		<br>
+		<form action="http://www.umich.edu/cgi-bin/htmail/gmackenz@umich.edu" method="post">
+			
+			<fieldset>	
+				
+				<legend>Music Interests</legend>
+				
+				<label>
+					Your email:
+					<input type="text" name="from"/><br> 
+					
+				</label>
+				
+				
+				<label>
+					<input type="hidden" name="subject" value="Music Interests"/>
+				</label>
+				
+				
+				<label>
+					Your name: 
+					<input type="text" name="name"/><br>
+				</label>
+				
+				<br>
+				<label>
+					Do you like these songs?<br>
+				</label>
+				
+				<label>
+					<input type="checkbox" name="response" value="yes" /> Yes<br>
+				</label>
+				<!--I added this extra label as part of my revision.-->
+				<label>
+					<input type="checkbox" name="response" value="no"  /> No<br>
+				</label>
+				
+				
+				<br>
+				<label>	
+				<!--I removed the "for comments" part of this label as part of my revision.-->		
+					What other songs by this artist do you like?
+				</label>
+				
+				<br>
+				<label>
+					<textarea name="comments"> I like...</textarea>
+				</label>
+				
+				
+				
+				<br>
+				<label>	
+					What is your favorite music genre?<br>
+				</label>
+				<label>
+					<select name="devices">
+						<option value="pop" selected="selected"> Pop</option>
+						<option value="country"> Country</option>
+						<option value="hiphop"> Hip Hop</option>
+						<option value="rock"> Rock</option>
+					</select>
+				</label>
+				
+				<br>
+				<label>
+					What song lyrics should I post next?<br>
+					<input type="radio" name="source" value="miss you" checked="checked"/> Miss You
+				</label>
+				<label>
+					<input type="radio" name="source" value="guess who"/> Guess Who
+					
+				</label>		
+				
+				
+				<label>
+					<input type="submit" value="Submit" />
+				</label>
+				
+			</fieldset>	
+			
+			<input type="hidden" name="This is I Found You lyric page"/>
+			
+			<input type="hidden" name="URL" value="http://www.umich.edu/cgi-bin/htmail/gmackenz@umich.edu"/>
+			
+			
+			
+		</form>
+		
 	</body>
 	
 </html>
