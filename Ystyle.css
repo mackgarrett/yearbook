@@ -5,6 +5,10 @@ body {
 h1 {
   font-family: "lobster";
   }
+  
+p {
+  font-family: "pt-sans-caption";
+}
 
 .dropbtn {
     background-color: #000080;
