@@ -35,7 +35,7 @@ h1 {
     display: block;
 }
 
-.dropdown-content a:hover {background-color:#ffffff}
+.dropdown-content a:hover {background-color:#ffff00}
 
 .dropdown:hover .dropdown-content {
     display: block;
