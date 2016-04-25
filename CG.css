@@ -1,6 +1,5 @@
 h1 /* title */
 {
-  	font-family: "lobster";
 	font-size: 50px;
 	color: Black;
 	text-align: center;
@@ -8,17 +7,14 @@ h1 /* title */
 
 h2 /* sub-heading */
 {
-	font-family: "fira-sans";
 	font-size: 23px;
 	color: black;
 	text-align: center;
 	padding: 10px;
-	
 }
 
 h3 /* W Titles */
 {
-	font-family: "lobster";
 	font-size: 60px;
 	color: white;
 	text-align: center;
@@ -26,11 +22,24 @@ h3 /* W Titles */
 }
 
 h4 {
-  	font-family: "fira-sans";
 	font-size: 25px;
 	color: black;
 	text-align: center;
 }
+
+h5 /*other W Titles */
+{
+	font-size: 60px;
+	color: black;
+	text-align: center;
+}
+
+h6 {
+	font-size: 25px;
+	color: white;
+	text-align: center;
+}
+
 p
 {
 	font-size: 15px;
@@ -85,7 +94,7 @@ body {
 
 .importantbox
 {
-	width: 50%;
+	width: 100%;
 	padding: 50px;
 	float: center;
 	color: black;
@@ -97,12 +106,69 @@ body {
 
 .importantbox2
 {
-	width: 50%;
+	width: 100%;
 	padding: 50px;
 	float: right;
 	color: black;
 	background-color: white;
 	opacity: 0.8;
+}
 
+.importantbox3
+{
+	width: 100%;
+	padding:50px;
+	float: center;
+	background-color: white;
+	border-width: 5px;
 
+}
+
+.importantbox4
+{
+	width: 100%;
+	padding: 45px;
+	float: right;
+	color: white;
+	background-color: black;
+	opacity: 0.8;
+}
+.section {
+	clear: both;
+	padding: 0px;
+	margin: 0px;
+}
+
+/*  COLUMN SETUP  */
+.col {
+	display: block;
+	float:left;
+	margin: 0% 0 0% 0%;
+}
+.col:first-child { margin-left: 0; }
+
+/*  GROUPING  */
+.group:before,
+.group:after { content:""; display:table; }
+.group:after { clear:both;}
+.group { zoom:1; /* For IE 6/7 */ }
+
+/*  GRID OF TWO  */
+.span_2_of_2 {
+	width: 100%;
+}
+.span_1_of_2 {
+	width: 49.2%;
+}
+
+/*  GO FULL WIDTH AT LESS THAN 480 PIXELS */
+
+@media only screen and (max-width: 480px) {
+	.col { 
+		margin: 0% 0 0% 0%;
+	}
+}
+
+@media only screen and (max-width: 480px) {
+	.span_2_of_2, .span_1_of_2 { width: 100%; }
 }
