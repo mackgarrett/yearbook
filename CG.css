@@ -9,6 +9,7 @@ h1 /* title */
 
 h2 /* sub-heading */
 {
+	font-family: "faricy-new-web";
 	font-size: 23px;
 	color: black;
 	text-align: center;
@@ -25,6 +26,7 @@ h3 /* W Titles */
 }
 
 h4 {
+  	font-family: "faricy-new-web";
 	font-size: 25px;
 	color: black;
 	text-align: center;
