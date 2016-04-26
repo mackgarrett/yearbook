@@ -134,7 +134,7 @@ footer {
 	padding: 600px;
 	background-color: black;
   	display: block;
-  	position: static;
+  	position: fixed;
   	float: middle;
   	
 	
