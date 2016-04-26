@@ -74,6 +74,11 @@ p
 	margin-left: 3cm;	
 }
 
+a:hover {
+    text-decoration: underline;
+    color: hotpink;
+}
+
 .dropbtn {
     background-color: black;
     color: black;
