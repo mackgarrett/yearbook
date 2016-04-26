@@ -16,26 +16,6 @@ body {
     float: middle;
 }
 
-.BIOS {
-	float: left;
-}
-
-h7 {
-	font-family: "lobster";
-	font-size: 40px;
-	color: white;
-	text-align: left;
-	float: right;
-}
-
-h8 {
-	font-family: "fira-sans";
-	font-size: 23px;
-	color: black;
-	text-align: center;
-	padding: 10px;
-	float: right;
-}
 
 h1 /* title */
 {
