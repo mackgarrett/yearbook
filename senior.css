@@ -121,9 +121,9 @@ a:hover {
 .importantbox {
   font-family: "fira-sans";
 	width: 60%;
-	margin-top: 50px;
-	margin-bottom:1px;
-	padding: 20px;
+	margin-top: 15px;
+	margin-bottom:15px;
+	padding: 40px;
 	color: black;
 	background-color: #ffffff;
 	opacity:.9;
