@@ -39,9 +39,9 @@ h2 /* sub-heading */
 h3 /* W Titles */
 {
 	font-family: "lobster";
-	font-size: 60px;
+	font-size: 40px;
 	color: white;
-	text-align: center;
+	text-align: left;
 	
 }
 
@@ -49,24 +49,11 @@ h4 {
 	font-family: "fira-sans";
 	font-size: 20px;
 	color: white;
-	text-align: center;
+	text-align: left;
 	margin: 2;
 }
 
-h5 /*other W Titles */
-{
-	font-family: "lobster";
-	font-size: 60px;
-	color: black;
-	text-align: center;
-}
 
-h6 {
-	font-family: "fira-sans";
-	font-size: 25px;
-	color: white;
-	text-align: center;
-}
 
 p
 {
