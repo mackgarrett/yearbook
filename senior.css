@@ -14,16 +14,15 @@ header{
 	
 }
 
-h1 /* title */
+/*h1 title 
 {
 	font-family: "lobster";
 	position: absolute;
-	top: 330px;
-	width: 100%;
-	font-size: 50px;
+	font-size: 60px;
 	color: White;
 	text-align: center;
 }
+*/
 
 h2 /* sub-heading */
 {
@@ -37,7 +36,7 @@ h2 /* sub-heading */
 h3 /* W Titles */
 {
 	font-family: "lobster";
-	font-size: 60px;
+	font-size: 50px;
 	color: white;
 	text-align: center;
 	
