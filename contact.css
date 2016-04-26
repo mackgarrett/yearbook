@@ -119,13 +119,13 @@ footer {
 	font-family: "fira-sans";
 	font-color: #ffffff;
 	width: 60%;
-	margin: 30px;
+	margin: 0;
 	padding: 30px;
 	background-color: black;
   	display: block;
   	position: relative;
   	float: middle;
-  	overflow: hidden;
+  	
 	
 }
 
