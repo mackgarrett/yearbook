@@ -46,6 +46,14 @@ h3 /* Name */
 	
 }
 
+h3b /* Name for Staff Bios*/
+{
+	font-family: "fira-sans";
+	font-size: 40px;
+	color: white;
+	text-align: left;
+	
+}
 h4 /* Bio Description */ 
 {
 	font-family: "fira-sans";
