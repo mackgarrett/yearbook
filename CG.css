@@ -1,3 +1,11 @@
+body {
+  padding-top: 50px;
+  background-image: url("stadiumF.jpg");
+  background-size: 1400px 400px;
+  background-repeat: repeat;
+  
+}
+
 h1 /* title */
 {
 	font-family: "lobster";
@@ -57,14 +65,6 @@ p
 	color: black;
 	text-align: left;
 	margin-left: 3cm;	
-}
-
-body {
-  padding-top: 50px;
-  background-image: url("Law.jpg");
-  background-size: 1400px 400px;
-  background-repeat: repeat;
-  
 }
 
 .dropbtn {
