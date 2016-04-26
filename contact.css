@@ -120,10 +120,18 @@ footer {
 	font-color: #ffffff;
 	width: 60%;
 	margin: 30px;
-	padding: 20px;
 	background-color: black;
   	display: block;
+  	position: relative;
 	
+}
+
+.topleft {
+    position: absolute;
+    top: 8px;
+    left: 16px;
+    font-size: 18px;
+    color:#ffffff; 
 }
 
 .importantbox2 {
