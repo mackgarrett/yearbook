@@ -14,8 +14,12 @@ img {
 	  margin-bottom:0;
 	  padding: 20px;
   	float: middle;
-  
 }
+
+.img-circle {
+    border-radius: 50%;
+}
+
 h1 /* title */
 {
 	font-family: "lobster";
