@@ -1,6 +1,7 @@
 body {
   padding-top: 50px;
-  background-color:#ccf2ff;
+  background-image: url("diag.jpg");
+  bbackground-repeat: no-repeat;
 }
 
 h1 /* title */
