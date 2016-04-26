@@ -36,7 +36,7 @@ h2 /* sub-heading */
 	padding: 10px;
 }
 
-h3 /* W Titles */
+h3 /* Name */
 {
 	font-family: "lobster";
 	font-size: 40px;
@@ -45,7 +45,8 @@ h3 /* W Titles */
 	
 }
 
-h4 {
+h4 /* Bio Description */ 
+{
 	font-family: "fira-sans";
 	font-size: 20px;
 	color: white;
