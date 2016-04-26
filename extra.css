@@ -2,11 +2,10 @@ body {
   padding-top: 50px;
 }
 
-img {
+header {
     opacity: 0.4;
     filter: alpha(opacity=40); /* For IE8 and earlier */
-    width:700px; 
-    height:400px;
+    display:block;
     position:relative;
 }
 
