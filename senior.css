@@ -1,0 +1,172 @@
+body {
+  background-image: url("pink.jpg");
+  opacity: .4;
+  bbackground-repeat: no-repeat;
+  background-size:cover;
+}
+
+header{
+	font-family: "lobster";
+	color:White;
+    	left:200px;
+    	top: 100px;
+    	font-size:40px;
+    	position: absolute;
+	
+}
+
+h1 /* title */
+{
+	font-family: "lobster";
+	position: absolute;
+	top: 330px;
+	width: 100%;
+	font-size: 50px;
+	color: White;
+	text-align: center;
+}
+
+h2 /* sub-heading */
+{
+	font-family: "fira-sans";
+	font-size: 23px;
+	color: black;
+	text-align: center;
+	padding: 10px;
+}
+
+h3 /* W Titles */
+{
+	font-family: "lobster";
+	font-size: 60px;
+	color: white;
+	text-align: center;
+	
+}
+
+h4 {
+	font-family: "fira-sans";
+	font-size: 20px;
+	color: white;
+	text-align: center;
+	margin: 2;
+}
+
+h5 /*other W Titles */
+{
+	font-family: "lobster";
+	font-size: 60px;
+	color: black;
+	text-align: center;
+}
+
+h6 {
+	font-family: "fira-sans";
+	font-size: 25px;
+	color: white;
+	text-align: center;
+}
+
+p
+{
+	font-family: "fira-sans";
+	font-size: 15px;
+	color: black;
+	text-align: left;
+	margin-left: 3cm;	
+}
+
+.dropbtn {
+    background-color: black;
+    color: black;
+    padding: 16px;
+    font-size: 16px;
+    border: none;
+    cursor: pointer;
+}
+
+.dropdown {
+    position: relative;
+    display: inline-block;
+}
+
+.dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: black;
+    min-width: 170px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+}
+
+.dropdown-content a {
+    color: gray;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+}
+
+.dropdown-content a:hover {background-color: #f1f1f1}
+
+.dropdown:hover .dropdown-content {
+    display: block;
+}
+
+.dropdown:hover .dropbtn {
+    background-color: #3e8e41;
+}
+
+.importantbox {
+  font-family: "fira-sans";
+	width: 60%;
+	margin-top: 200px;
+	margin-bottom:100px;
+	padding: 20px;
+	color: black;
+	background-color: #ffffff;
+	opacity:.9;
+  margin-left: auto;
+  margin-right: auto;
+  float: middle;
+}
+
+footer {
+	font-family: "fira-sans";
+	font-color: #ffffff;
+	width: 100%;
+	margin-left: 0;
+	margin-right:0;
+	margin-bottom:0;
+	padding: 20px;
+	background-color: black;
+  	display: block;
+  	float: middle;
+  	position: relative;
+  	
+}
+
+.topleft {
+    position: relative;
+    top: 8px;
+    left: 28px;
+    font-size: 12px;
+    color:#ffffff; 
+}
+
+.center {
+    position: absolute;
+    left: 0;
+    top: 15px;
+    width: 100%;
+    text-align: center;
+    font-size: 12px;
+    color:#ffffff;
+}
+
+.topright {
+    position: absolute;
+    top: 15px;
+    right: 28px;
+    font-size: 12px;
+    color:#ffffff;
+    
+}
