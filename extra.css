@@ -54,6 +54,15 @@ h4 /* Bio Description */
 	margin: 2;
 }
 
+h5 /* Position on Yearbook Staff */ 
+{
+	font-family: "fira-sans";
+	font-size: 28px;
+	color: white;
+	text-align: left;
+	margin: 2;
+}
+
 
 
 p
