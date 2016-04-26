@@ -16,6 +16,66 @@ img {
   	float: middle;
   
 }
+h1 /* title */
+{
+	font-family: "lobster";
+	position: absolute;
+	top: 330px;
+	width: 100%;
+	font-size: 50px;
+	color: White;
+	text-align: center;
+}
+
+h2 /* sub-heading */
+{
+	font-family: "fira-sans";
+	font-size: 23px;
+	color: black;
+	text-align: center;
+	padding: 10px;
+}
+
+h3 /* W Titles */
+{
+	font-family: "lobster";
+	font-size: 60px;
+	color: white;
+	text-align: center;
+	
+}
+
+h4 {
+	font-family: "fira-sans";
+	font-size: 20px;
+	color: white;
+	text-align: center;
+	margin: 2;
+}
+
+h5 /*other W Titles */
+{
+	font-family: "lobster";
+	font-size: 60px;
+	color: black;
+	text-align: center;
+}
+
+h6 {
+	font-family: "fira-sans";
+	font-size: 25px;
+	color: white;
+	text-align: center;
+}
+
+p
+{
+	font-family: "fira-sans";
+	font-size: 15px;
+	color: black;
+	text-align: left;
+	margin-left: 3cm;	
+}
 
 .dropbtn {
     background-color: black;
