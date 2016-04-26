@@ -125,7 +125,7 @@ footer {
   	display: block;
   	position: relative;
   	float: middle;
-  	
+  	overflow: hidden;
 	
 }
 
