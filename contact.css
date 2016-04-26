@@ -144,7 +144,7 @@ footer {
 }
 
 .topleft {
-    position: absolute;
+    position: relative;
     top: 8px;
     left: 28px;
     font-size: 12px;
