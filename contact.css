@@ -126,7 +126,7 @@ footer {
 	padding: 30px;
 	background-color: black;
   	display: block;
-  	position: relative;
+  	position: fixed;
   	float: middle;
   	
 	
