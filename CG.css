@@ -152,3 +152,30 @@ footer {
   	float: middle;
 	
 }
+
+.left {
+    position: absolute;
+    top: 8px;
+    left: 28px;
+    font-size: 12px;
+    color:#ffffff; 
+}
+
+.center {
+    position: absolute;
+    left: 0;
+    top: 8px;
+    width: 100%;
+    text-align: center;
+    font-size: 12px;
+    color:#ffffff;
+}
+
+.right {
+    position: absolute;
+    top: 8px;
+    right: 28px;
+    font-size: 12px;
+    color:#ffffff;
+    
+}
