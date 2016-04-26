@@ -117,14 +117,15 @@ p
 
 footer {
 	font-family: "fira-sans";
+	color:ffffff;
 	width: 60%;
 	margin: 30px;
 	padding: 20px;
-	color: #ffffff;
 	background-color: black;
 	 margin-left: auto;
   	margin-right: auto;
   	float: middle;
+  	display: block;
 	
 }
 
