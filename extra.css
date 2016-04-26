@@ -2,6 +2,14 @@ body {
   padding-top: 50px;
 }
 
+img {
+    opacity: 0.4;
+    filter: alpha(opacity=40); /* For IE8 and earlier */
+    width:700px; 
+    height:400px;
+    position:relative;
+}
+
 .dropbtn {
     background-color: black;
     color: black;
