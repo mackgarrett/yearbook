@@ -18,6 +18,7 @@ input{
 	position:relative;
 	opacity:1;
 	float=middle;
+	width:100%;
 }
 
 h1 /* title */
