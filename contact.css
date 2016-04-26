@@ -124,6 +124,9 @@ footer {
 	background-color: black;
   	display: block;
   	position: relative;
+  	margin-left: auto;
+  	margin-right: auto;
+  	
 	
 }
 
@@ -138,7 +141,7 @@ footer {
 .center {
     position: absolute;
     left: 0;
-    top: 50%;
+    top: 8px;
     width: 80%;
     text-align: center;
     font-size: 12px;
