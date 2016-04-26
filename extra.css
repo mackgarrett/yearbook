@@ -60,6 +60,7 @@ h4 /* Bio Description */
 	color: white;
 	text-align: left;
 	margin-right: 4cm;
+	float: left;
 }
 
 h5 /* Position on Yearbook Staff */ 
