@@ -4,6 +4,15 @@ body {
   background-size:cover;
 }
 
+header{
+	padding: 50px 30px 50px 80px;
+	text-align: center;
+	 margin-left: auto;
+  	margin-right: auto;
+	float: middle;
+	
+}
+
 h1 /* title */
 {
 	font-family: "lobster";
