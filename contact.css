@@ -21,6 +21,10 @@ input{
 	width:100%;
 }
 
+.social{
+	position:center;
+}
+
 /*This is for the textbox in the form*/
 textarea {
     width: 100%;
