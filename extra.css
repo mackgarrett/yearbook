@@ -16,9 +16,6 @@ body {
     float: middle;
 }
 
-.img-circle {
-    border-radius: 50%;
-}
 
 h1 /* title */
 {
@@ -56,7 +53,7 @@ h4 /* Bio Description */
 	color: white;
 	text-align: left;
 	margin-right: 4cm;
-	float: left;
+	
 }
 
 h5 /* Position on Yearbook Staff */ 
