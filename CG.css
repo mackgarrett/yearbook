@@ -154,6 +154,7 @@ footer {
 }
 
 .left {
+    position: absolute;
     top: 8px;
     left:0;
 }
