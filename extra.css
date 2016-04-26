@@ -137,18 +137,3 @@ p
   	float: middle;
   
 }
-
-footer {
-	font-family: "fira-sans";
-	font-color: #ffffff;
-	width: 100%;
-	margin-left: 0;
-	margin-right:0;
-	margin-bottom:0;
-	padding: 8px;
-	background-color: black;
-  	display: block;
-  	position: relative;
-  	float: middle;
-	
-}
