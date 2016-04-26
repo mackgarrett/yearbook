@@ -153,23 +153,3 @@ footer {
 	
 }
 
-.left {
-    position: absolute;
-    top: 8px;
-    right:10px;
-}
-
-.center {
-    position: absolute;
-    right: 25px;
-    top: 8px;
-    width: 100%;
-   
-}
-
-.right {
-    position: absolute;
-    top: 8px;
-    right: 30px;
-    
-}
