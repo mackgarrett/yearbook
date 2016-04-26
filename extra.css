@@ -7,6 +7,13 @@ header {
     filter: alpha(opacity=40); /* For IE8 and earlier */
     display:block;
     position:relative;
+    width: 100%;
+	  margin-left: 0;
+	  margin-right:0;
+	  margin-bottom:0;
+	  padding: 20px;
+  	float: middle;
+  
 }
 
 .dropbtn {
