@@ -5,9 +5,11 @@ body {
 }
 
 header{
+	font-family: "lobster";
+	color:White;
 	position: absolute;
-    	left: 100px;
-    	top: 150px;
+    	left: 300px;
+    	top: 100px;
 	
 }
 
