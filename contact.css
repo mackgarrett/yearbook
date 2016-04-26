@@ -31,6 +31,7 @@ textarea {
     border-radius: 4px;
     background-color: #f8f8f8;
     resize: none;
+    opacity:1;
 }
 
 h1 /* title */
