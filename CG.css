@@ -154,12 +154,8 @@ footer {
 }
 
 .left {
-    position: absolute;
     top: 8px;
     left:0;
-    font-size: 12px;
-    color:#ffffff;
-    padding: 30px;
 }
 
 .center {
@@ -167,15 +163,12 @@ footer {
     right: 25px;
     top: 8px;
     width: 100%;
-    font-size: 12px;
-    color:#ffffff;
+   
 }
 
 .right {
     position: absolute;
     top: 8px;
     right: 30px;
-    font-size: 12px;
-    color:#ffffff;
     
 }
