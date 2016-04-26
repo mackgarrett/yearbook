@@ -135,7 +135,7 @@ footer {
 	margin-left: 0;
 	margin-right:0;
 	margin-bottom:0;
-	padding: 40px;
+	padding: 20px;
 	background-color: black;
   	display: block;
   	float: middle;
@@ -152,7 +152,7 @@ footer {
 }
 
 .center {
-    position: relative;
+    position: absolute;
     left: 0;
     top: 8px;
     width: 100%;
