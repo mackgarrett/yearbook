@@ -156,14 +156,14 @@ footer {
 .left {
     position: absolute;
     top: 8px;
-    left: 28px;
+    right: 22px;
     font-size: 12px;
     color:#ffffff; 
 }
 
 .center {
     position: absolute;
-    left: 0;
+    right: 25px;
     top: 8px;
     width: 100%;
     text-align: center;
