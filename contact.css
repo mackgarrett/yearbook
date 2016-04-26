@@ -14,6 +14,12 @@ header{
 	
 }
 
+comments{
+	position:relative;
+	opacity:1;
+	float=middle;
+}
+
 h1 /* title */
 {
 	font-family: "lobster";
