@@ -189,7 +189,7 @@ div.box {
 }
 
 div#box1{
-	background-color:white;
+	background-color:blue;
 	
 }
 
@@ -200,10 +200,6 @@ div#box2 {
 }
 
 
-}
-.image-container {
-    display: block;
-    margin: 0 auto;
-}
+
 
 
