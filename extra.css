@@ -175,10 +175,10 @@ p
 
 div.box {
 	width: 46%;
-	height:46%;
+	height:auto;
 	border:1px; solid;
-	padding:10px;
-	float:left;
+	padding:20px;
+	float:center;
 	margin-left:25px;
 	margin-top:30px;
 	margin-bottom:30px;
@@ -202,8 +202,7 @@ div#box2 {
 .adimg {
     max-width: 100%;
     height: auto;
-    margin-right:auto;
-    margin-left:auto;
+    padding:25px;
     
 }
 
