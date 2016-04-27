@@ -199,15 +199,9 @@ div#box2 {
 	
 }
 
-.adimg {
-    max-width: 100%;
-    height: auto;
-    padding:25px;
-    float=center;
-    
+
 }
-}
-.image-container img {
+.image-container {
     display: block;
     margin: 0 auto;
 }
