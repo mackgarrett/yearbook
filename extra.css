@@ -193,5 +193,18 @@ p
 	float: right;
 }
 
+div.box {
+	width: 50%;
+	height: 70%;
+	background-color:white;
+	border:1px; solid black;
+	float:left;
+	margin:20px;
+}
+
+div#box2 {
+	background-color:black;
+	
+}
 
 
