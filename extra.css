@@ -180,5 +180,13 @@ p
 	float: left;
 }
 
+.picturebox /*Com Advertisment Page*/ {
+	width:50%;
+	margin: 30px;
+	padding: 20px;
+	color:black;
+	float: right;
+}
+
 
 
