@@ -161,11 +161,15 @@ p
   
 }
 
-fieldset {
+.importantbox > fieldset > legend {
 	margin-left: auto;
 	margin-right: auto;
 }
 
+.importantbox > fieldset > label {
+	margin-left: auto;
+	margin-right: auto;
+}
 
 
 footer {
