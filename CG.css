@@ -15,7 +15,7 @@
  }
  */
  
- h2 
+ h2 /*Ended up not using here*/
  {
  	font-family: "fira-sans";
  	font-size: 23px;
@@ -120,23 +120,7 @@ h3 /* W Titles */
    
   }
   
- .importantbox2 {
- 	font-size: 18px;
- 	font-family: "Lucida Console", Monaco, monospace;
- 	width: 60%;
- 	margin-left: auto;
- 	margin-right: auto;
- 	background-color:#ffffff;
- 	float: middle;
- 	color: #0c012f;
- 	border-style: solid;
- 	border-width: .1em;
- 	padding-left: 5%;
- 	padding-bottom: 5%;
- 	padding-right: 5%;
- 	border-style: dashed;
-     	box-shadow: 10px 10px 5px grey;
- }
+
  
 
 
