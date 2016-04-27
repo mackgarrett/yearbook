@@ -85,8 +85,8 @@ h8 /*order*/ {
 	font-family:"lobster";
 	font-size: 30px;
 	color: black;
-	text-align:center;
-	margin: 2;
+	text-align: center;
+	padding: 10px;
 	
 }
 
