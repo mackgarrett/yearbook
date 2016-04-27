@@ -172,33 +172,15 @@ p
   
 }
 
-.importantboxC /*Com Advertisment Page*/{
-	width:50%;
-	margin: 30px;
-	padding: 20px;
-	color: white;
-	float: left;
-}
-
-.picturebox /*Com Advertisment Page*/ {
-	width:50%;
-	margin: 30px;
-	padding: 20px;
-	color:white;
-	background-color: black;
-	border-style: solid;
-	border-width: 5px;
-	margin-top:10px;
-	margin-bottom: 10px;
-	float: right;
-}
 
 div.box {
 	width: 400px;
-	height: 1000px;
+	height: 600px;
 	border:1px; solid black;
 	float:left;
 	margin:20px;
+	text-align:left;
+	img-align:center;
 }
 
 div#box1{
