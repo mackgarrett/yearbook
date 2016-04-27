@@ -81,6 +81,15 @@ h6 /*Com Adv. Font */{
 	margin: 2;
 }
 
+h8 /*order*/ {
+	font-family:"lobster";
+	font-size: 30px;
+	color: black;
+	text-align:center;
+	margin: 2;
+	
+}
+
 
 
 p
