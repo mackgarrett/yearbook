@@ -97,7 +97,7 @@ h6 /*Text in CA */{
 	margin-left: 70px;
 }
 
-#orderpageh6 {
+#orderpageh6 /*ID used in both order page and CA page*/{
 	font-family:"lobster";
 	font-size: 30px;
 	color: black;
@@ -129,7 +129,8 @@ h8 {
 	font-size: 15px;
 	color: black;
 	text-align: left;
-	margin-left: 1cm;	
+	margin-left: 1cm;
+	margin-right:.5cm;
 }
 
 #piccapt {
