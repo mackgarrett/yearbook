@@ -66,7 +66,7 @@ h2 /* sub-heading */
 	padding: 10px;
 }
 
-h3 /* W Titles */
+h3 
 {
 	font-family: "lobster";
 	font-size: 60px;
@@ -83,7 +83,7 @@ h4 {
 	margin: 2;
 }
 
-h5 /*other W Titles */
+h5 
 {
 	font-family: "lobster";
 	font-size: 30px;
@@ -164,15 +164,6 @@ p
   
 }
 
-#formtitle {
-	margin-left: auto;
-	margin-right: auto;
-}
-
-#formlabel {
-	margin-left: auto;
-	margin-right: auto;
-}
 
 
 footer {
