@@ -148,7 +148,7 @@ p
 }
 
 .importantbox {
-  font-family: "fira-sans";
+  	font-family: "fira-sans";
 	width: 60%;
 	margin-top: 120px;
 	margin-bottom:40px;
@@ -156,9 +156,9 @@ p
 	color: black;
 	background-color: #ffffff;
 	opacity:.9;
-  margin-left: auto;
-  margin-right: auto;
-  float: middle;
+  	margin-left: auto;
+  	margin-right: auto;
+  
 }
 
 
