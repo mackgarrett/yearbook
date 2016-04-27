@@ -70,12 +70,13 @@ h4 /* Bio Description */
 	
 }
 
-.staffh4 {
+.staffh4 /*Staff body text*/{
 	font-family: "fira-sans";
 	font-size: 20px;
 	color: white;
 	text-align: left;
-	margin-left:4em;
+	margin-left:2em;
+	margin-right:1em;
 	
 }
 
