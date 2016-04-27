@@ -194,12 +194,15 @@ p
 }
 
 div.box {
-	width: 50%;
-	height: 70%;
-	background-color:white;
+	width: 400px;
+	height: 1000px;
 	border:1px; solid black;
 	float:left;
 	margin:20px;
+}
+
+div#box1{
+	background-color:white;
 }
 
 div#box2 {
