@@ -1,96 +1,125 @@
  body {
- 	padding-top: 50px;
- 	background-image: url("stadiumF.jpg");
- 	bbackground-repeat:no-repeat;
- 	background-size: cover;
- 	/*This background covers the whole background*/
+  	padding-top: 50px;
+   	background-image: url("stadiumF.jpg");
+   	bbackground-repeat:no-repeat;
+   	background-size: cover;
  }
-
-
-h1 title 
-{
-	font-family: "lobster";
-	position: absolute;
-	font-size: 60px;
-	color: White;
-	text-align: center;
-
-h3 /* W Titles */
-{
-	font-family: "lobster";
-	font-size: 50px;
-	color: white;
-	text-align: center;
-	
-}
-
-h4 /*Body Text*/{
-	font-family: "fira-sans";
-	font-size: 20px;
-	color: white;
-	text-align: center;
-	margin: 2;
-}
-
-
-/*For Nav bar*/
-.dropbtn {
-    background-color: black;
-    color: black;
-    padding: 16px;
-    font-size: 16px;
-    border: none;
-    cursor: pointer;
-}
-
-.dropdown {
-    position: relative;
-    display: inline-block;
-}
-
-.dropdown-content {
-    display: none;
-    position: absolute;
-    background-color: black;
-    min-width: 170px;
-    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
-}
-
-.dropdown-content a {
-    color: gray;
-    padding: 12px 16px;
-    text-decoration: none;
-    display: block;
-}
-
-.dropdown-content a:hover {background-color: #f1f1f1}
-
-.dropdown:hover .dropdown-content {
-    display: block;
-}
-
-.dropdown:hover .dropbtn {
-    background-color: #3e8e41;
-}
-
-/*Creates the black boxes the content is in*/
-.importantbox {
-	width: 90%;
-	margin: 30px;
-	padding: 20px;
-	color: black;
-	border-style: solid;
-	border-width: 5px;
-	background-color: black;
-	opacity: 0.8;
-  	margin-left: auto;
-  	margin-right: auto;
-  	margin-bottom: 10px;
-  	float: middle;
+ /*h1 title 
+  {
+  	font-family: "lobster";
+  	position: absolute;
+  	font-size: 60px;
+  	color: White;
+  	text-align: center;
+ }
+ */
+ 
+ h2 
+ {
+ 	font-family: "fira-sans";
+ 	font-size: 23px;
+ 	color: black;
+ 	text-align: center;
+ 	padding: 10px;
+ }
   
-}
-
-importantbox2 {
+h3 /* W Titles */
+  {
+ 	font-family: "lobster";
+ 	font-size: 50px;
+ 	color: white;
+ 	text-align: center;
+  	
+  }
+  
+ h4 {
+  	font-family: "fira-sans";
+  	font-size: 20px;
+  	color: white;
+  	text-align: center;
+  	margin: 2;
+  }
+  
+ h5 /*other W Titles */
+ {
+ 	font-family: "lobster";
+ 	font-size: 60px;
+ 	color: black;
+ 	text-align: center;
+ }
+ 
+ h6 {
+ 	font-family: "fira-sans";
+ 	font-size: 25px;
+ 	color: white;
+ 	text-align: center;
+ }
+ 
+ p
+ {
+ 	font-family: "fira-sans";
+ 	font-size: 15px;
+ 	color: black;
+ 	text-align: left;
+ 	margin-left: 3cm;	
+ }
+ 
+ dropbtn {
+      background-color: black;
+      color: black;
+     padding: 16px;
+     font-size: 16px;
+     border: none;
+     cursor: pointer;
+ }
+ 
+ .dropdown {
+     position: relative;
+     display: inline-block;
+ }
+ 
+ .dropdown-content {
+     display: none;
+     position: absolute;
+     background-color: black;
+     min-width: 170px;
+     box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+ }
+ 
+ .dropdown-content a {
+     color: gray;
+     padding: 12px 16px;
+     text-decoration: none;
+     display: block;
+ }
+ 
+ .dropdown-content a:hover {background-color: #f1f1f1}
+ 
+ .dropdown:hover .dropdown-content {
+     display: block;
+ }
+ 
+ .dropdown:hover .dropbtn {
+      background-color: #3e8e41;
+  }
+  
+ .importantbox {
+  	width: 90%;
+  	margin: 30px;
+ 	padding: 20px;
+ 	color: black;
+ 	border-style: solid;
+ 	border-width: 5px;
+ 	background-color: black;
+ 	opacity: 0.8;
+   	margin-left: auto;
+   	margin-right: auto;
+   	margin-bottom: 10px;
+   	float: middle;
+   
+  }
+  
+ .importantbox2 {
  	font-size: 18px;
  	font-family: "Lucida Console", Monaco, monospace;
  	width: 60%;
@@ -103,9 +132,9 @@ importantbox2 {
  	border-width: .1em;
  	padding-left: 5%;
  	padding-bottom: 5%;
-	padding-right: 5%;
-	border-style: dashed;
-    	box-shadow: 10px 10px 5px grey;
+ 	padding-right: 5%;
+ 	border-style: dashed;
+     	box-shadow: 10px 10px 5px grey;
  }
  
  footer {
@@ -118,10 +147,12 @@ importantbox2 {
  	padding: 30px;
  	background-color: black;
    	display: block;
-  	position: relative;
-   	float: middle;
+       position: relative;
+ 	float: middle;
  	
  }
+  
+   
 
 
 
