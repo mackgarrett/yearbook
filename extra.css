@@ -92,12 +92,20 @@ h8 /*order*/ {
 
 
 
-p {
+p > #picbio {
 	font-family: "fira-sans";
 	font-size: 15px;
 	color: black;
 	text-align: left;
 	margin-left: 1cm;	
+}
+
+p > #piccapt {
+	font-family: "fira-sans";
+	font-size: 15px;
+	color: black;
+	text-align: right;
+	margin-left: 1cm;
 }
 
 .dropbtn {
