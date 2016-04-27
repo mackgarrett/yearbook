@@ -174,8 +174,7 @@ p
 
 
 div.box {
-	width: 400px;
-	height: 600px;
+	width: 45%;
 	border:1px; solid;
 	padding:10px;
 	float:left;
