@@ -3,28 +3,17 @@
  	background-image: url("stadiumF.jpg");
  	bbackground-repeat:no-repeat;
  	background-size: cover;
- 	
+ 	/*This background covers the whole background*/
  }
 
 
-/*h1 title 
+h1 title 
 {
 	font-family: "lobster";
 	position: absolute;
 	font-size: 60px;
 	color: White;
 	text-align: center;
-}
-*/
-
-h2 /* sub-heading */
-{
-	font-family: "fira-sans";
-	font-size: 23px;
-	color: black;
-	text-align: center;
-	padding: 10px;
-}
 
 h3 /* W Titles */
 {
@@ -35,7 +24,7 @@ h3 /* W Titles */
 	
 }
 
-h4 {
+h4 /*Body Text*/{
 	font-family: "fira-sans";
 	font-size: 20px;
 	color: white;
@@ -43,30 +32,8 @@ h4 {
 	margin: 2;
 }
 
-h5 /*other W Titles */
-{
-	font-family: "lobster";
-	font-size: 60px;
-	color: black;
-	text-align: center;
-}
 
-h6 {
-	font-family: "fira-sans";
-	font-size: 25px;
-	color: white;
-	text-align: center;
-}
-
-p
-{
-	font-family: "fira-sans";
-	font-size: 15px;
-	color: black;
-	text-align: left;
-	margin-left: 3cm;	
-}
-
+/*For Nav bar*/
 .dropbtn {
     background-color: black;
     color: black;
@@ -106,6 +73,7 @@ p
     background-color: #3e8e41;
 }
 
+/*Creates the black boxes the content is in*/
 .importantbox {
 	width: 90%;
 	margin: 30px;
@@ -123,36 +91,4 @@ p
 }
 
 
-.importantbox2 {
-	font-size: 18px;
-	font-family: "Lucida Console", Monaco, monospace;
-	width: 60%;
-	margin-left: auto;
-	margin-right: auto;
-	background-color:#ffffff;
-	float: middle;
-	color: #0c012f;
-	border-style: solid;
-	border-width: .1em;
-	padding-left: 5%;
-	padding-bottom: 5%;
-	padding-right: 5%;
-	border-style: dashed;
-    	box-shadow: 10px 10px 5px grey;
-}
-
-footer {
-	font-family: "fira-sans";
-	font-color: #ffffff;
-	width: 100%;
-	margin-left: 0;
-	margin-right:0;
-	margin-bottom:0;
-	padding: 30px;
-	background-color: black;
-  	display: block;
-  	position: relative;
-  	float: middle;
-	
-}
 
