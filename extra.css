@@ -2,10 +2,10 @@ body {
   padding-top: 50px;
 }
 
+/*For header images*/
 .topimage {
     opacity: 0.6;
     filter:alpha(opacity=40); /* For IE8 and earlier */
-   
     position:relative;
     width: 100%;
     height:400px;
@@ -17,7 +17,7 @@ body {
 }
 
 
-h1 /* title */
+h1 /* title CA  */
 {
 	font-family: "lobster";
 	position: absolute;
@@ -59,14 +59,7 @@ h3 /* Name */
 	
 }
 
-h7 /* Name for Staff Bios*/
-{
-	font-family: "fira-sans";
-	font-size: 40px;
-	color: white;
-	text-align: left;
-	
-}
+
 h4 /* Bio Description */ 
 {
 	font-family: "fira-sans";
@@ -95,7 +88,7 @@ h5 /* Position on Yearbook Staff */
 	margin: 2;
 }
 
-h6 /*Com Adv. Font */{
+h6 /*Text in CA */{
 	font-family:"lobster";
 	font-size: 30px;
 	color: black;
@@ -112,6 +105,14 @@ h6 /*Com Adv. Font */{
 		
 }
 
+h7 /* Name for Staff Bios*/
+{
+	font-family: "fira-sans";
+	font-size: 40px;
+	color: white;
+	text-align: left;
+	
+}
 h8 {
 	font-family:"lobster";
 	font-size: 30px;
@@ -122,7 +123,7 @@ h8 {
 
 
 
-#picbio {
+#picbio /*id tag for Com Ad page paragraph text*/ {
 	font-family: "fira-sans";
 	font-size: 15px;
 	color: black;
@@ -138,6 +139,7 @@ h8 {
 	margin-left: 1cm;
 }
 
+/*Nav bar*/
 .dropbtn {
     background-color: black;
     color: black;
@@ -218,11 +220,12 @@ h8 {
   
 }
 
-.TextWrap {
+.TextWrap /*Wrap text on Com Ad page*/{
 	float:right;
 	margin-left: auto;
 	margin-right: 2em;
 }
+
 
 
 
