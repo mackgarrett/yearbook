@@ -37,6 +37,16 @@ h2 /* sub-heading */
 	padding: 10px;
 }
 
+#orderpageh2 {
+	font-family: "fira-sans";
+	font-size: 23px;
+	color: black;
+	text-align: center;
+	padding: 10px;
+	margin-bottom:10%;
+	
+}
+
 h3 /* Name */
 {
 	font-family: "lobster";
@@ -79,6 +89,15 @@ h6 /*Com Adv. Font */{
 	color: black;
 	text-align:center;
 	margin: 2;
+}
+
+#orderpageh6 {
+	font-family: "fira-sans";
+	font-size: 23px;
+	color: black;
+	text-align: center;
+	padding: 10px;
+	margin-bottom:10%;
 }
 
 h8 {
