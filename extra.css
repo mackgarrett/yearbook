@@ -73,6 +73,14 @@ h5 /* Position on Yearbook Staff */
 	margin: 2;
 }
 
+h6 /*Com Adv. Font */{
+	font-family:"lobster";
+	font-size: 30px;
+	color: black;
+	text-align:left;
+	margin: 2;
+}
+
 
 
 p
