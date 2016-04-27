@@ -104,7 +104,7 @@ h3 /* W Titles */
       background-color: #3e8e41;
   }
   
- .importantbox {
+ .importantbox /*Background boxes for content*/ {
   	width: 90%;
   	margin: 30px;
  	padding: 20px;
