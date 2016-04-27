@@ -201,6 +201,8 @@ div#box2 {
 .adimg {
     max-width: 100%;
     height: auto;
+    margin-right:auto;
+    margin-left:auto;
     
 }
 
