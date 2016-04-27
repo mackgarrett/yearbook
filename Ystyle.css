@@ -2,6 +2,7 @@ body {
   padding-top: 50px;
 }
 
+/* Lobster and fira-sans are fonts we got from Adobe Type Kits*/
 h1 {
   font-family: "lobster";
   }
@@ -10,6 +11,7 @@ p {
   font-family: "fira-sans;
 }
 
+/*Code for dropdown nav bar*/
 .dropbtn {
     background-color: black;
     color: black;
