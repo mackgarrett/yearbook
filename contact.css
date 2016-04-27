@@ -161,12 +161,12 @@ p
   
 }
 
-.importantbox > fieldset > legend {
+#formtitle {
 	margin-left: auto;
 	margin-right: auto;
 }
 
-.importantbox > fieldset > label {
+#formlabel {
 	margin-left: auto;
 	margin-right: auto;
 }
