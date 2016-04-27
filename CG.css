@@ -33,7 +33,7 @@ h3 /* W Titles */
   	
   }
   
- h4 {
+ h4 /*Body Text*/ {
   	font-family: "fira-sans";
   	font-size: 20px;
   	color: white;
