@@ -17,7 +17,7 @@ body {
 }
 
 
-h1 /* title CA  */
+h1 /* title CA, Order, Staff */
 {
 	font-family: "lobster";
 	position: absolute;
@@ -28,7 +28,7 @@ h1 /* title CA  */
 	text-align: center;
 }
 
-h2 /* sub-heading */
+h2 /* sub-heading in Order */
 {
 	font-family: "fira-sans";
 	font-size: 23px;
@@ -37,7 +37,7 @@ h2 /* sub-heading */
 	padding: 10px;
 }
 
-#orderpageh2 {
+#orderpageh2 /*Text on Order page*/{
 	font-family: "fira-sans";
 	font-size: 23px;
 	color: black;
@@ -79,7 +79,7 @@ h4 /* Bio Description */
 	
 }
 
-h5 /* Position on Yearbook Staff */ 
+h5 /* Name and Position on Yearbook Staff */ 
 {
 	font-family: "fira-sans";
 	font-size: 28px;
@@ -106,7 +106,7 @@ h6 /*Text in CA */{
 		
 }
 
-h7 /* Name for Staff Bios*/
+h7 /*not used*/
 {
 	font-family: "fira-sans";
 	font-size: 40px;
@@ -124,7 +124,7 @@ h8 {
 
 
 
-.picbio /*id tag for Com Ad page paragraph text*/ {
+.picbio /*class tag for Com Ad page paragraph text*/ {
 	font-family: "fira-sans";
 	font-size: 15px;
 	color: black;
