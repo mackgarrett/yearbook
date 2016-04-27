@@ -92,8 +92,7 @@ h8 /*order*/ {
 
 
 
-p
-{
+p {
 	font-family: "fira-sans";
 	font-size: 15px;
 	color: black;
@@ -179,9 +178,6 @@ p
   	margin-bottom: 10px;
   	float: middle;
   
-}
-
-	
 }
 
 .TextWrap {
