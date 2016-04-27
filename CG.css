@@ -4,7 +4,8 @@
    	bbackground-repeat:no-repeat;
    	background-size: cover;
  }
- /*h1 title 
+ 
+ /*h1 title not ended up using
   {
   	font-family: "lobster";
   	position: absolute;
@@ -137,22 +138,7 @@ h3 /* W Titles */
      	box-shadow: 10px 10px 5px grey;
  }
  
- footer {
- 	font-family: "fira-sans";
- 	font-color: #ffffff;
- 	width: 100%;
- 	margin-left: 0;
- 	margin-right:0;
- 	margin-bottom:0;
- 	padding: 30px;
- 	background-color: black;
-   	display: block;
-       position: relative;
- 	float: middle;
- 	
- }
-  
-   
+
 
 
 
