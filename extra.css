@@ -42,7 +42,8 @@ h2 /* sub-heading */
 	font-size: 23px;
 	color: black;
 	text-align: center;
-	padding: 60px;
+	padding-right:2.5em;
+	padding-left:2.5em;
 	margin-bottom:2%;
 	margin-left:1em;
 	margin-right:1em;
